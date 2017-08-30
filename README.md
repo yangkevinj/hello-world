@@ -1,3 +1,5 @@
 # hello-world
 hello-world repository
-My name is Kevin Yang from DIGONG COUNTRY
+Name - Kevin Yang
+Country - Philippines
+Organization - Fuji-Haya Electric
